@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi, I'm Miguel Ángel! 👋
 
-<!--
-**MiguelDonado/MiguelDonado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate developer, driven by a curiosity for technology and economy. My journey involves delving into the world of computer science, exploring new ideas...
 
-Here are some ideas to get you started:
+![<MiguelDonado>'s Stats](https://github-readme-stats.vercel.app/api?username=<MiguelDonado>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I'm currently working full-time as an auditor and learning on my own about Computer Science.
+- 🖥️ The incoming year I'll be pursuing a Master's in Big Data. 
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,js,react,html,css,linux)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+- 🚀 Learning Full Stack Web Development
+  - Learning Linux to better understand open-source environments.
+  - Navigating through the world of React Router for seamless page transitions.
+  - Working with regular expressions in Python and Beautiful Soup to parse and analyze web data.
+  - Diving into SQL for efficient and scalable database management.
