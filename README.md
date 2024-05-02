@@ -2,7 +2,7 @@
 
 I am a passionate developer, driven by a curiosity for technology and economy. My journey involves delving into the world of computer science, exploring new ideas...
 
-![<MiguelDonado>'s Stats](https://github-readme-stats.vercel.app/api?username=<MiguelDonado>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![MiguelDonado's Stats](https://github-readme-stats.vercel.app/api?username=MiguelDonado&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -14,7 +14,7 @@ I am a passionate developer, driven by a curiosity for technology and economy. M
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
+  - Learning Full Stack Web Development
   - Learning Linux to better understand open-source environments.
   - Navigating through the world of React Router for seamless page transitions.
   - Working with regular expressions in Python and Beautiful Soup to parse and analyze web data.
