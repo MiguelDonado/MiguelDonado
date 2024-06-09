@@ -10,7 +10,7 @@ I am a passionate developer, driven by a curiosity for technology and economy. M
 - 🖥️ The incoming year I'll be pursuing a Master's in Big Data. 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,js,react,html,css,linux,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,react,html,css,arch,linux,c)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
