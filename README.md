@@ -9,7 +9,7 @@ I am a passionate developer, driven by a curiosity for technology and economy. M
 - 🖥️ I'm studying a Master's in Big Data in UPC (Barcelona).
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,r,sql,bash,js,react,html,css,arch,linux,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,bash,js,react,html,css,arch,linux,c)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
