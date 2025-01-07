@@ -6,17 +6,15 @@ I am a passionate developer, driven by a curiosity for technology and economy. M
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working full-time as an auditor and learning on my own about Computer Science.
-- 🖥️ The incoming year I'll be pursuing a Master's in Big Data. 
+- 🖥️ I'm studying a Master's in Big Data in UPC (Barcelona).
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,js,react,html,css,arch,linux,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,sql,bash,js,react,html,css,arch,linux,c)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
-  - Learning Full Stack Web Development
+  - Working with Python, Selenium and regex to parse and analyze web data.
+  - Working with R for Data Science projects.
   - Learning Linux to better understand open-source environments.
   - Learning C programming language, to grasp how computers work at a low-level.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Working with regular expressions in Python and Beautiful Soup to parse and analyze web data.
   - Diving into SQL for efficient and scalable database management.
